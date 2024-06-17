@@ -36,7 +36,7 @@
     "easy-yandex-s3": "^2.0.0",
     "embla-carousel-autoplay": "^8.1.5",
     "embla-carousel-react": "^8.1.5",
-    "lucide-react": "^0.365.0",
+    "lucide-react": "0.263.1",
     "next": "13.4.12",
     "next-auth": "^4.24.7",
     "next-themes": "^0.3.0",
